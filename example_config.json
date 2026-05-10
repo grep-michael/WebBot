@@ -1,0 +1,49 @@
+{
+  "Bots": [
+    {
+      "Type": "GovDeals",
+      "InstanceName": "GovDeals ComputerSearch",
+      "Options": {
+        "PollingInterval": "5m",
+        "SearchTerm": "Computer",
+        "SortField": "bestfit",
+        "SortOrder": "asc",
+        "DisplayRows": 1
+      },
+      "Cache": {
+        "Type": "MapCache"
+      },
+      "Notifications": [
+        {
+          "Type": "DiscordWebhook",
+          "Options": {
+            "WebhookUrl": "",
+            "BotToken": ""
+          }
+        }
+      ]
+    },
+    {
+      "Type": "MTGSecretLair",
+      "InstanceName": "MTG watcher",
+      "Cache": {
+        "Type": "MapCache"
+      },
+      "Notifications": [
+        {
+          "Type": "DiscordWebhook",
+          "Options": {
+            "WebhookUrl": "",
+            "BotToken": ""
+          }
+        }
+      ],
+      "Options": {
+        "NotifyInital": true,
+        "PollingInterval": "5m",
+        "CollectionInterval": "3s",
+        "SearchCount": 50
+      }
+    }
+  ]
+}

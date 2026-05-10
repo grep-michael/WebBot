@@ -1,0 +1,1572 @@
+{
+  "filters": [
+    {
+      "count": 1,
+      "total": 153,
+      "products": [
+        {
+          "productID": "1251656",
+          "state": "VALIDATED",
+          "release_date": "2026-05-12T09:00:00.000+02:00",
+          "type": "BUNDLE",
+          "refs": {
+            "refID": "Z71771000_US",
+            "sku": "Z71771000_US",
+            "ean": "",
+            "upc": "",
+            "isbn": "",
+            "jan": "",
+            "shipping_id": "Z71771000_US",
+            "geoID": ""
+          },
+          "country": "US",
+          "price_info": {
+            "currencies_list": ["USD"],
+            "currencies": {
+              "USD": [{ "price": "514.99", "crossed_price": "559.84" }]
+            },
+            "prices": [{ "licence": "USD", "price": "514.99" }]
+          },
+          "price_hide": "0",
+          "has_lowest_price": "0",
+          "meta_refid_linked": "",
+          "image": "https://cdn-prod.scalefast.com/public/assets/user/10751401/image/16565ef79abd30adaa36ac143044c399.png",
+          "secondary_image": "https://cdn-prod.scalefast.com/public/assets/user/10751401/image/367c5cdc2c7e2af3a40558aa75e281d7.png",
+          "sample": [""],
+          "note": "0",
+          "descriptions": [
+            {
+              "lang": "FR",
+              "title": "This Will be On the Test Everything Bundle",
+              "home_title": ""
+            },
+            {
+              "lang": "EN",
+              "title": "This Will be On the Test Everything Bundle",
+              "home_title": ""
+            },
+            {
+              "lang": "ES",
+              "title": "This Will be On the Test Everything Bundle",
+              "home_title": ""
+            },
+            {
+              "lang": "DE",
+              "title": "This Will be On the Test Everything Bundle",
+              "home_title": ""
+            },
+            {
+              "lang": "IT",
+              "title": "This Will be On the Test Everything Bundle",
+              "home_title": ""
+            }
+          ],
+          "stock": { "stock": 10, "ostock": "DENY_PURCHASE" },
+          "is_reserved": false,
+          "categories": [
+            {
+              "categoryID": "91917",
+              "externalID": "0",
+              "categoryName": "bu-SL. Back to School Superdrop"
+            }
+          ],
+          "specific": {
+            "elem_visible": "0",
+            "elem_visible_product": "0",
+            "discount_type": "0",
+            "discount": "-1",
+            "global_preorder": "1",
+            "is_manual_discount": "0",
+            "extension": {
+              "videogame": { "edition": "BUNDLE" },
+              "custom": { "id_to_use_with_provider": "Z71771000_US" },
+              "physical": { "weight": "4.96", "weight_units": "inch" },
+              "other": { "related_feeds": "72378" },
+              "groups": { "other_editions": "73712" }
+            },
+            "elements": [
+              {
+                "productID": 1245627,
+                "quantity": "1",
+                "refs": {
+                  "refID": "D50580000_US",
+                  "sku": "",
+                  "ean": "",
+                  "upc": "195166304519",
+                  "isbn": "",
+                  "jan": "",
+                  "shipping_id": "D50580000_US",
+                  "geoID": ""
+                },
+                "price_info": {
+                  "currencies_list": ["USD"],
+                  "currencies": {
+                    "USD": [{ "price": "36.79", "crossed_price": "39.99" }]
+                  },
+                  "prices": [{ "licence": "USD", "price": "36.79" }]
+                },
+                "descriptions": [
+                  {
+                    "lang": "FR",
+                    "title": "The Eyes Have It Foil Edition",
+                    "home_title": "",
+                    "keywords": []
+                  },
+                  {
+                    "lang": "EN",
+                    "title": "The Eyes Have It Foil Edition",
+                    "home_title": "",
+                    "keywords": []
+                  },
+                  {
+                    "lang": "ES",
+                    "title": "The Eyes Have It Foil Edition",
+                    "home_title": "",
+                    "keywords": []
+                  },
+                  {
+                    "lang": "DE",
+                    "title": "The Eyes Have It Foil Edition",
+                    "home_title": "",
+                    "keywords": []
+                  },
+                  {
+                    "lang": "IT",
+                    "title": "The Eyes Have It Foil Edition",
+                    "home_title": "",
+                    "keywords": []
+                  }
+                ]
+              },
+              {
+                "productID": 1245628,
+                "quantity": "1",
+                "refs": {
+                  "refID": "D50570000_US",
+                  "sku": "",
+                  "ean": "",
+                  "upc": "195166304540",
+                  "isbn": "",
+                  "jan": "",
+                  "shipping_id": "D50570000_US",
+                  "geoID": ""
+                },
+                "price_info": {
+                  "currencies_list": ["USD"],
+                  "currencies": {
+                    "USD": [{ "price": "27.59", "crossed_price": "29.99" }]
+                  },
+                  "prices": [{ "licence": "USD", "price": "27.59" }]
+                },
+                "descriptions": [
+                  {
+                    "lang": "FR",
+                    "title": "The Eyes Have It",
+                    "home_title": "",
+                    "keywords": []
+                  },
+                  {
+                    "lang": "EN",
+                    "title": "The Eyes Have It",
+                    "home_title": "",
+                    "keywords": []
+                  },
+                  {
+                    "lang": "ES",
+                    "title": "The Eyes Have It",
+                    "home_title": "",
+                    "keywords": []
+                  },
+                  {
+                    "lang": "DE",
+                    "title": "The Eyes Have It",
+                    "home_title": "",
+                    "keywords": []
+                  },
+                  {
+                    "lang": "IT",
+                    "title": "The Eyes Have It",
+                    "home_title": "",
+                    "keywords": []
+                  }
+                ]
+              },
+              {
+                "productID": 1250293,
+                "quantity": "1",
+                "refs": {
+                  "refID": "D57000000_US",
+                  "sku": "",
+                  "ean": "",
+                  "upc": "195166325477",
+                  "isbn": "",
+                  "jan": "",
+                  "shipping_id": "D57000000_US",
+                  "geoID": ""
+                },
+                "price_info": {
+                  "currencies_list": ["USD"],
+                  "currencies": {
+                    "USD": [{ "price": "36.79", "crossed_price": "39.99" }]
+                  },
+                  "prices": [{ "licence": "USD", "price": "36.79" }]
+                },
+                "descriptions": [
+                  {
+                    "lang": "FR",
+                    "title": "Omens of Chaos Foil Edition",
+                    "home_title": "",
+                    "keywords": []
+                  },
+                  {
+                    "lang": "EN",
+                    "title": "Omens of Chaos Foil Edition",
+                    "home_title": "",
+                    "keywords": []
+                  },
+                  {
+                    "lang": "ES",
+                    "title": "Omens of Chaos Foil Edition",
+                    "home_title": "",
+                    "keywords": []
+                  },
+                  {
+                    "lang": "DE",
+                    "title": "Omens of Chaos Foil Edition",
+                    "home_title": "",
+                    "keywords": []
+                  },
+                  {
+                    "lang": "IT",
+                    "title": "Omens of Chaos Foil Edition",
+                    "home_title": "",
+                    "keywords": []
+                  }
+                ]
+              },
+              {
+                "productID": 1250294,
+                "quantity": "1",
+                "refs": {
+                  "refID": "D57010000_US",
+                  "sku": "",
+                  "ean": "",
+                  "upc": "195166325507",
+                  "isbn": "",
+                  "jan": "",
+                  "shipping_id": "D57010000_US",
+                  "geoID": ""
+                },
+                "price_info": {
+                  "currencies_list": ["USD"],
+                  "currencies": {
+                    "USD": [{ "price": "27.59", "crossed_price": "29.99" }]
+                  },
+                  "prices": [{ "licence": "USD", "price": "27.59" }]
+                },
+                "descriptions": [
+                  {
+                    "lang": "FR",
+                    "title": "Omens of Chaos",
+                    "home_title": "",
+                    "keywords": []
+                  },
+                  {
+                    "lang": "EN",
+                    "title": "Omens of Chaos",
+                    "home_title": "",
+                    "keywords": []
+                  },
+                  {
+                    "lang": "ES",
+                    "title": "Omens of Chaos",
+                    "home_title": "",
+                    "keywords": []
+                  },
+                  {
+                    "lang": "DE",
+                    "title": "Omens of Chaos",
+                    "home_title": "",
+                    "keywords": []
+                  },
+                  {
+                    "lang": "IT",
+                    "title": "Omens of Chaos",
+                    "home_title": "",
+                    "keywords": []
+                  }
+                ]
+              },
+              {
+                "productID": 1250410,
+                "quantity": "1",
+                "refs": {
+                  "refID": "D57020000_US",
+                  "sku": "",
+                  "ean": "",
+                  "upc": "195166325538",
+                  "isbn": "",
+                  "jan": "",
+                  "shipping_id": "D57020000_US",
+                  "geoID": ""
+                },
+                "price_info": {
+                  "currencies_list": ["USD"],
+                  "currencies": {
+                    "USD": [{ "price": "36.79", "crossed_price": "39.99" }]
+                  },
+                  "prices": [{ "licence": "USD", "price": "36.79" }]
+                },
+                "descriptions": [
+                  {
+                    "lang": "FR",
+                    "title": "Mahō Gakuin Seishun Hakusho — 魔法学院青春白書 Foil Edition",
+                    "home_title": "",
+                    "keywords": []
+                  },
+                  {
+                    "lang": "EN",
+                    "title": "Mahō Gakuin Seishun Hakusho — 魔法学院青春白書 Foil Edition",
+                    "home_title": "",
+                    "keywords": []
+                  },
+                  {
+                    "lang": "ES",
+                    "title": "Mahō Gakuin Seishun Hakusho — 魔法学院青春白書 Foil Edition",
+                    "home_title": "",
+                    "keywords": []
+                  },
+                  {
+                    "lang": "DE",
+                    "title": "Mahō Gakuin Seishun Hakusho — 魔法学院青春白書 Foil Edition",
+                    "home_title": "",
+                    "keywords": []
+                  },
+                  {
+                    "lang": "IT",
+                    "title": "Mahō Gakuin Seishun Hakusho — 魔法学院青春白書 Foil Edition",
+                    "home_title": "",
+                    "keywords": []
+                  }
+                ]
+              },
+              {
+                "productID": 1250411,
+                "quantity": "1",
+                "refs": {
+                  "refID": "D57030000_US",
+                  "sku": "",
+                  "ean": "",
+                  "upc": "195166325569",
+                  "isbn": "",
+                  "jan": "",
+                  "shipping_id": "D57030000_US",
+                  "geoID": ""
+                },
+                "price_info": {
+                  "currencies_list": ["USD"],
+                  "currencies": {
+                    "USD": [{ "price": "27.59", "crossed_price": "29.99" }]
+                  },
+                  "prices": [{ "licence": "USD", "price": "27.59" }]
+                },
+                "descriptions": [
+                  {
+                    "lang": "FR",
+                    "title": "Mahō Gakuin Seishun Hakusho — 魔法学院青春白書",
+                    "home_title": "",
+                    "keywords": []
+                  },
+                  {
+                    "lang": "EN",
+                    "title": "Mahō Gakuin Seishun Hakusho — 魔法学院青春白書",
+                    "home_title": "",
+                    "keywords": []
+                  },
+                  {
+                    "lang": "ES",
+                    "title": "Mahō Gakuin Seishun Hakusho — 魔法学院青春白書",
+                    "home_title": "",
+                    "keywords": []
+                  },
+                  {
+                    "lang": "DE",
+                    "title": "Mahō Gakuin Seishun Hakusho — 魔法学院青春白書",
+                    "home_title": "",
+                    "keywords": []
+                  },
+                  {
+                    "lang": "IT",
+                    "title": "Mahō Gakuin Seishun Hakusho — 魔法学院青春白書",
+                    "home_title": "",
+                    "keywords": []
+                  }
+                ]
+              },
+              {
+                "productID": 1250412,
+                "quantity": "1",
+                "refs": {
+                  "refID": "D57040000_US",
+                  "sku": "",
+                  "ean": "",
+                  "upc": "195166325590",
+                  "isbn": "",
+                  "jan": "",
+                  "shipping_id": "D57040000_US",
+                  "geoID": ""
+                },
+                "price_info": {
+                  "currencies_list": ["USD"],
+                  "currencies": {
+                    "USD": [{ "price": "36.79", "crossed_price": "39.99" }]
+                  },
+                  "prices": [{ "licence": "USD", "price": "36.79" }]
+                },
+                "descriptions": [
+                  {
+                    "lang": "FR",
+                    "title": "Notebook Genius Foil Edition",
+                    "home_title": "",
+                    "keywords": []
+                  },
+                  {
+                    "lang": "EN",
+                    "title": "Notebook Genius Foil Edition",
+                    "home_title": "",
+                    "keywords": []
+                  },
+                  {
+                    "lang": "ES",
+                    "title": "Notebook Genius Foil Edition",
+                    "home_title": "",
+                    "keywords": []
+                  },
+                  {
+                    "lang": "DE",
+                    "title": "Notebook Genius Foil Edition",
+                    "home_title": "",
+                    "keywords": []
+                  },
+                  {
+                    "lang": "IT",
+                    "title": "Notebook Genius Foil Edition",
+                    "home_title": "",
+                    "keywords": []
+                  }
+                ]
+              },
+              {
+                "productID": 1250413,
+                "quantity": "1",
+                "refs": {
+                  "refID": "D57050000_US",
+                  "sku": "",
+                  "ean": "",
+                  "upc": "195166325620",
+                  "isbn": "",
+                  "jan": "",
+                  "shipping_id": "D57050000_US",
+                  "geoID": ""
+                },
+                "price_info": {
+                  "currencies_list": ["USD"],
+                  "currencies": {
+                    "USD": [{ "price": "27.59", "crossed_price": "29.99" }]
+                  },
+                  "prices": [{ "licence": "USD", "price": "27.59" }]
+                },
+                "descriptions": [
+                  {
+                    "lang": "FR",
+                    "title": "Notebook Genius",
+                    "home_title": "",
+                    "keywords": []
+                  },
+                  {
+                    "lang": "EN",
+                    "title": "Notebook Genius",
+                    "home_title": "",
+                    "keywords": []
+                  },
+                  {
+                    "lang": "ES",
+                    "title": "Notebook Genius",
+                    "home_title": "",
+                    "keywords": []
+                  },
+                  {
+                    "lang": "DE",
+                    "title": "Notebook Genius",
+                    "home_title": "",
+                    "keywords": []
+                  },
+                  {
+                    "lang": "IT",
+                    "title": "Notebook Genius",
+                    "home_title": "",
+                    "keywords": []
+                  }
+                ]
+              },
+              {
+                "productID": 1250414,
+                "quantity": "1",
+                "refs": {
+                  "refID": "D60670000_US",
+                  "sku": "",
+                  "ean": "",
+                  "upc": "195166335728",
+                  "isbn": "",
+                  "jan": "",
+                  "shipping_id": "D60670000_US",
+                  "geoID": ""
+                },
+                "price_info": {
+                  "currencies_list": ["USD"],
+                  "currencies": {
+                    "USD": [{ "price": "36.79", "crossed_price": "39.99" }]
+                  },
+                  "prices": [{ "licence": "USD", "price": "36.79" }]
+                },
+                "descriptions": [
+                  {
+                    "lang": "FR",
+                    "title": "Return to Mystical Archive Foil Edition",
+                    "home_title": "",
+                    "keywords": []
+                  },
+                  {
+                    "lang": "EN",
+                    "title": "Return to Mystical Archive Foil Edition",
+                    "home_title": "",
+                    "keywords": []
+                  },
+                  {
+                    "lang": "ES",
+                    "title": "Return to Mystical Archive Foil Edition",
+                    "home_title": "",
+                    "keywords": []
+                  },
+                  {
+                    "lang": "DE",
+                    "title": "Return to Mystical Archive Foil Edition",
+                    "home_title": "",
+                    "keywords": []
+                  },
+                  {
+                    "lang": "IT",
+                    "title": "Return to Mystical Archive Foil Edition",
+                    "home_title": "",
+                    "keywords": []
+                  }
+                ]
+              },
+              {
+                "productID": 1250415,
+                "quantity": "1",
+                "refs": {
+                  "refID": "D60680000_US",
+                  "sku": "",
+                  "ean": "",
+                  "upc": "195166335759",
+                  "isbn": "",
+                  "jan": "",
+                  "shipping_id": "D60680000_US",
+                  "geoID": ""
+                },
+                "price_info": {
+                  "currencies_list": ["USD"],
+                  "currencies": {
+                    "USD": [{ "price": "27.59", "crossed_price": "29.99" }]
+                  },
+                  "prices": [{ "licence": "USD", "price": "27.59" }]
+                },
+                "descriptions": [
+                  {
+                    "lang": "FR",
+                    "title": "Return to Mystical Archive",
+                    "home_title": "",
+                    "keywords": []
+                  },
+                  {
+                    "lang": "EN",
+                    "title": "Return to Mystical Archive",
+                    "home_title": "",
+                    "keywords": []
+                  },
+                  {
+                    "lang": "ES",
+                    "title": "Return to Mystical Archive",
+                    "home_title": "",
+                    "keywords": []
+                  },
+                  {
+                    "lang": "DE",
+                    "title": "Return to Mystical Archive",
+                    "home_title": "",
+                    "keywords": []
+                  },
+                  {
+                    "lang": "IT",
+                    "title": "Return to Mystical Archive",
+                    "home_title": "",
+                    "keywords": []
+                  }
+                ]
+              },
+              {
+                "productID": 1250416,
+                "quantity": "1",
+                "refs": {
+                  "refID": "D56920000_US",
+                  "sku": "",
+                  "ean": "",
+                  "upc": "195166324739",
+                  "isbn": "",
+                  "jan": "",
+                  "shipping_id": "D56920000_US",
+                  "geoID": ""
+                },
+                "price_info": {
+                  "currencies_list": ["USD"],
+                  "currencies": {
+                    "USD": [{ "price": "36.79", "crossed_price": "39.99" }]
+                  },
+                  "prices": [{ "licence": "USD", "price": "36.79" }]
+                },
+                "descriptions": [
+                  {
+                    "lang": "FR",
+                    "title": "Secret Lair x Dwarf Fortress: Create New World Foil Edition",
+                    "home_title": "",
+                    "keywords": []
+                  },
+                  {
+                    "lang": "EN",
+                    "title": "Secret Lair x Dwarf Fortress: Create New World Foil Edition",
+                    "home_title": "",
+                    "keywords": []
+                  },
+                  {
+                    "lang": "ES",
+                    "title": "Secret Lair x Dwarf Fortress: Create New World Foil Edition",
+                    "home_title": "",
+                    "keywords": []
+                  },
+                  {
+                    "lang": "DE",
+                    "title": "Secret Lair x Dwarf Fortress: Create New World Foil Edition",
+                    "home_title": "",
+                    "keywords": []
+                  },
+                  {
+                    "lang": "IT",
+                    "title": "Secret Lair x Dwarf Fortress: Create New World Foil Edition",
+                    "home_title": "",
+                    "keywords": []
+                  }
+                ]
+              },
+              {
+                "productID": 1250417,
+                "quantity": "1",
+                "refs": {
+                  "refID": "D56930000_US",
+                  "sku": "",
+                  "ean": "",
+                  "upc": "195166324791",
+                  "isbn": "",
+                  "jan": "",
+                  "shipping_id": "D56930000_US",
+                  "geoID": ""
+                },
+                "price_info": {
+                  "currencies_list": ["USD"],
+                  "currencies": {
+                    "USD": [{ "price": "27.59", "crossed_price": "29.99" }]
+                  },
+                  "prices": [{ "licence": "USD", "price": "27.59" }]
+                },
+                "descriptions": [
+                  {
+                    "lang": "FR",
+                    "title": "Secret Lair x Dwarf Fortress: Create New World",
+                    "home_title": "",
+                    "keywords": []
+                  },
+                  {
+                    "lang": "EN",
+                    "title": "Secret Lair x Dwarf Fortress: Create New World",
+                    "home_title": "",
+                    "keywords": []
+                  },
+                  {
+                    "lang": "ES",
+                    "title": "Secret Lair x Dwarf Fortress: Create New World",
+                    "home_title": "",
+                    "keywords": []
+                  },
+                  {
+                    "lang": "DE",
+                    "title": "Secret Lair x Dwarf Fortress: Create New World",
+                    "home_title": "",
+                    "keywords": []
+                  },
+                  {
+                    "lang": "IT",
+                    "title": "Secret Lair x Dwarf Fortress: Create New World",
+                    "home_title": "",
+                    "keywords": []
+                  }
+                ]
+              },
+              {
+                "productID": 1250418,
+                "quantity": "1",
+                "refs": {
+                  "refID": "D56940000_US",
+                  "sku": "",
+                  "ean": "",
+                  "upc": "195166324920",
+                  "isbn": "",
+                  "jan": "",
+                  "shipping_id": "D56940000_US",
+                  "geoID": ""
+                },
+                "price_info": {
+                  "currencies_list": ["USD"],
+                  "currencies": {
+                    "USD": [{ "price": "36.79", "crossed_price": "39.99" }]
+                  },
+                  "prices": [{ "licence": "USD", "price": "36.79" }]
+                },
+                "descriptions": [
+                  {
+                    "lang": "FR",
+                    "title": "Secret Lair x My Little Pony: Friendship is Magic Foil Edition",
+                    "home_title": "",
+                    "keywords": []
+                  },
+                  {
+                    "lang": "EN",
+                    "title": "Secret Lair x My Little Pony: Friendship is Magic Foil Edition",
+                    "home_title": "",
+                    "keywords": []
+                  },
+                  {
+                    "lang": "ES",
+                    "title": "Secret Lair x My Little Pony: Friendship is Magic Foil Edition",
+                    "home_title": "",
+                    "keywords": []
+                  },
+                  {
+                    "lang": "DE",
+                    "title": "Secret Lair x My Little Pony: Friendship is Magic Foil Edition",
+                    "home_title": "",
+                    "keywords": []
+                  },
+                  {
+                    "lang": "IT",
+                    "title": "Secret Lair x My Little Pony: Friendship is Magic Foil Edition",
+                    "home_title": "",
+                    "keywords": []
+                  }
+                ]
+              },
+              {
+                "productID": 1250419,
+                "quantity": "1",
+                "refs": {
+                  "refID": "D56950000_US",
+                  "sku": "",
+                  "ean": "",
+                  "upc": "195166324951",
+                  "isbn": "",
+                  "jan": "",
+                  "shipping_id": "D56950000_US",
+                  "geoID": ""
+                },
+                "price_info": {
+                  "currencies_list": ["USD"],
+                  "currencies": {
+                    "USD": [{ "price": "27.59", "crossed_price": "29.99" }]
+                  },
+                  "prices": [{ "licence": "USD", "price": "27.59" }]
+                },
+                "descriptions": [
+                  {
+                    "lang": "FR",
+                    "title": "Secret Lair x My Little Pony: Friendship is Magic",
+                    "home_title": "",
+                    "keywords": []
+                  },
+                  {
+                    "lang": "EN",
+                    "title": "Secret Lair x My Little Pony: Friendship is Magic",
+                    "home_title": "",
+                    "keywords": []
+                  },
+                  {
+                    "lang": "ES",
+                    "title": "Secret Lair x My Little Pony: Friendship is Magic",
+                    "home_title": "",
+                    "keywords": []
+                  },
+                  {
+                    "lang": "DE",
+                    "title": "Secret Lair x My Little Pony: Friendship is Magic",
+                    "home_title": "",
+                    "keywords": []
+                  },
+                  {
+                    "lang": "IT",
+                    "title": "Secret Lair x My Little Pony: Friendship is Magic",
+                    "home_title": "",
+                    "keywords": []
+                  }
+                ]
+              },
+              {
+                "productID": 1250420,
+                "quantity": "1",
+                "refs": {
+                  "refID": "D56960000_US",
+                  "sku": "",
+                  "ean": "",
+                  "upc": "195166324982",
+                  "isbn": "",
+                  "jan": "",
+                  "shipping_id": "D56960000_US",
+                  "geoID": ""
+                },
+                "price_info": {
+                  "currencies_list": ["USD"],
+                  "currencies": {
+                    "USD": [{ "price": "36.79", "crossed_price": "39.99" }]
+                  },
+                  "prices": [{ "licence": "USD", "price": "36.79" }]
+                },
+                "descriptions": [
+                  {
+                    "lang": "FR",
+                    "title": "Secret Lair x My Little Pony: The Lands of Equestria Foil Edition",
+                    "home_title": "",
+                    "keywords": []
+                  },
+                  {
+                    "lang": "EN",
+                    "title": "Secret Lair x My Little Pony: The Lands of Equestria Foil Edition",
+                    "home_title": "",
+                    "keywords": []
+                  },
+                  {
+                    "lang": "ES",
+                    "title": "Secret Lair x My Little Pony: The Lands of Equestria Foil Edition",
+                    "home_title": "",
+                    "keywords": []
+                  },
+                  {
+                    "lang": "DE",
+                    "title": "Secret Lair x My Little Pony: The Lands of Equestria Foil Edition",
+                    "home_title": "",
+                    "keywords": []
+                  },
+                  {
+                    "lang": "IT",
+                    "title": "Secret Lair x My Little Pony: The Lands of Equestria Foil Edition",
+                    "home_title": "",
+                    "keywords": []
+                  }
+                ]
+              },
+              {
+                "productID": 1250421,
+                "quantity": "1",
+                "refs": {
+                  "refID": "D56970000_US",
+                  "sku": "",
+                  "ean": "",
+                  "upc": "195166325019",
+                  "isbn": "",
+                  "jan": "",
+                  "shipping_id": "D56970000_US",
+                  "geoID": ""
+                },
+                "price_info": {
+                  "currencies_list": ["USD"],
+                  "currencies": {
+                    "USD": [{ "price": "27.54", "crossed_price": "29.99" }]
+                  },
+                  "prices": [{ "licence": "USD", "price": "27.54" }]
+                },
+                "descriptions": [
+                  {
+                    "lang": "FR",
+                    "title": "Secret Lair x My Little Pony: The Lands of Equestria",
+                    "home_title": "",
+                    "keywords": []
+                  },
+                  {
+                    "lang": "EN",
+                    "title": "Secret Lair x My Little Pony: The Lands of Equestria",
+                    "home_title": "",
+                    "keywords": []
+                  },
+                  {
+                    "lang": "ES",
+                    "title": "Secret Lair x My Little Pony: The Lands of Equestria",
+                    "home_title": "",
+                    "keywords": []
+                  },
+                  {
+                    "lang": "DE",
+                    "title": "Secret Lair x My Little Pony: The Lands of Equestria",
+                    "home_title": "",
+                    "keywords": []
+                  },
+                  {
+                    "lang": "IT",
+                    "title": "Secret Lair x My Little Pony: The Lands of Equestria",
+                    "home_title": "",
+                    "keywords": []
+                  }
+                ]
+              }
+            ]
+          },
+          "publisher": "",
+          "preorder": "0",
+          "preorder_display": "PREORDER",
+          "waiting_list": false,
+          "feeds": [
+            { "feedID": "69740", "pos": 1 },
+            { "feedID": "71026", "pos": 1 },
+            { "feedID": "72135", "pos": 1 },
+            { "feedID": "72136", "pos": 1 },
+            { "feedID": "73057", "pos": 1 },
+            { "feedID": "73058", "pos": 1 },
+            { "feedID": "73060", "pos": 1 },
+            { "feedID": "73703", "pos": 1 },
+            { "feedID": "73712", "pos": 1 }
+          ],
+          "raw_data": { "crowdfunding_enabled": false },
+          "upselling": {
+            "crosssell": [],
+            "upsell": { "related_feeds": "72378" }
+          },
+          "flash_sales": {
+            "start_date": "2026-04-27 18:00:00",
+            "end_date": "2050-12-31 09:00:00"
+          },
+          "limit_purchase": "2",
+          "backorder": {
+            "release_date": "0000-00-00 00:00:00",
+            "delay_debit": 0
+          },
+          "protected": false,
+          "image_alt": { "alt_name": "", "name": "" },
+          "secondary_image_alt": [{ "alt_name": "", "name": "" }],
+          "previews_primary": [
+            {
+              "previews": [
+                {
+                  "preview": [
+                    {
+                      "alt_name": "",
+                      "name": "",
+                      "type": "file",
+                      "url": "025a38111ec992616b9059ef04b1320e.png",
+                      "visible": "1"
+                    },
+                    {
+                      "alt_name": "",
+                      "name": "",
+                      "type": "file",
+                      "url": "c3a7c7bdb9bbb337ee58d542a9f51f72.png",
+                      "visible": "1"
+                    },
+                    {
+                      "alt_name": "",
+                      "name": "",
+                      "type": "file",
+                      "url": "bb56b282705c5bb562280fa291b3a9c7.png",
+                      "visible": "1"
+                    },
+                    {
+                      "alt_name": "",
+                      "name": "",
+                      "type": "file",
+                      "url": "596092472a4c35490d9a7a4531bcc30f.png",
+                      "visible": "1"
+                    },
+                    {
+                      "alt_name": "",
+                      "name": "",
+                      "type": "file",
+                      "url": "bfc82851045d7ea35779bfbf8dad34a3.png",
+                      "visible": "1"
+                    },
+                    {
+                      "alt_name": "",
+                      "name": "",
+                      "type": "file",
+                      "url": "1babb4f82e5365ddb5cacdbbefecebce.png",
+                      "visible": "1"
+                    },
+                    {
+                      "alt_name": "",
+                      "name": "",
+                      "type": "file",
+                      "url": "e7401594d08fa2a61b5c51fdd57afb6f.png",
+                      "visible": "1"
+                    },
+                    {
+                      "alt_name": "",
+                      "name": "",
+                      "type": "file",
+                      "url": "3f19e589429831aec630030bbb18c167.png",
+                      "visible": "1"
+                    },
+                    {
+                      "alt_name": "",
+                      "name": "",
+                      "type": "file",
+                      "url": "295e042be5d6fcaad95e9c29cc3c444a.png",
+                      "visible": "1"
+                    },
+                    {
+                      "alt_name": "",
+                      "name": "",
+                      "type": "file",
+                      "url": "f4692cca9cc82b2e33856306f6674757.png",
+                      "visible": "1"
+                    },
+                    {
+                      "alt_name": "",
+                      "name": "",
+                      "type": "file",
+                      "url": "e122acbfe5dd4e7c135b98910a907b54.png",
+                      "visible": "1"
+                    },
+                    {
+                      "alt_name": "",
+                      "name": "",
+                      "type": "file",
+                      "url": "b67dfb60a83a3aca66826a8e7ee08978.png",
+                      "visible": "1"
+                    },
+                    {
+                      "alt_name": "",
+                      "name": "",
+                      "type": "file",
+                      "url": "bdfc01c12867aa6c4a9e196d5a8d1b0f.png",
+                      "visible": "1"
+                    },
+                    {
+                      "alt_name": "",
+                      "name": "",
+                      "type": "file",
+                      "url": "a6dcbc5d4437ab7273dc95382f7a23bc.png",
+                      "visible": "1"
+                    },
+                    {
+                      "alt_name": "",
+                      "name": "",
+                      "type": "file",
+                      "url": "b8ce5b112b4e13cd7eb25eaa6a113278.png",
+                      "visible": "1"
+                    },
+                    {
+                      "alt_name": "",
+                      "name": "",
+                      "type": "file",
+                      "url": "5ffe6d36e7eac4a2ae0608a147e3c388.png",
+                      "visible": "1"
+                    },
+                    {
+                      "alt_name": "",
+                      "name": "",
+                      "type": "file",
+                      "url": "805f0eb539d0d926bfe399240bb7f86c.png",
+                      "visible": "1"
+                    },
+                    {
+                      "alt_name": "",
+                      "name": "",
+                      "type": "file",
+                      "url": "e93324b940aae09e3ae7719279ab6c6a.png",
+                      "visible": "1"
+                    },
+                    {
+                      "alt_name": "",
+                      "name": "",
+                      "type": "file",
+                      "url": "9b5befbe6fdf8bf47512061f88b76edf.png",
+                      "visible": "1"
+                    },
+                    {
+                      "alt_name": "",
+                      "name": "",
+                      "type": "file",
+                      "url": "6956f6b105428dfbdf697d898ce60dfb.png",
+                      "visible": "1"
+                    },
+                    {
+                      "alt_name": "",
+                      "name": "",
+                      "type": "file",
+                      "url": "9abefcaaf1cace0d3c6ab5d603a7ce25.png",
+                      "visible": "1"
+                    },
+                    {
+                      "alt_name": "",
+                      "name": "",
+                      "type": "file",
+                      "url": "1feb2a1228cbb673bf4b930e5514977d.png",
+                      "visible": "1"
+                    },
+                    {
+                      "alt_name": "",
+                      "name": "",
+                      "type": "file",
+                      "url": "ede36f33bbbfaf7b0c482a43919e84d2.png",
+                      "visible": "1"
+                    },
+                    {
+                      "alt_name": "",
+                      "name": "",
+                      "type": "file",
+                      "url": "8433faa2e4a153f0a0aa03adc32e5fd9.png",
+                      "visible": "1"
+                    },
+                    {
+                      "alt_name": "",
+                      "name": "",
+                      "type": "file",
+                      "url": "8eab050e1579df5f795bb6186760d6a5.png",
+                      "visible": "1"
+                    },
+                    {
+                      "alt_name": "",
+                      "name": "",
+                      "type": "file",
+                      "url": "de673bebe7bff19cc8024e4b8499cba5.png",
+                      "visible": "1"
+                    },
+                    {
+                      "alt_name": "",
+                      "name": "",
+                      "type": "file",
+                      "url": "e5049cc06f7667e054721d19e506aa3b.png",
+                      "visible": "1"
+                    },
+                    {
+                      "alt_name": "",
+                      "name": "",
+                      "type": "file",
+                      "url": "8ef032af9d34affd30fb8a394eb9208a.png",
+                      "visible": "1"
+                    },
+                    {
+                      "alt_name": "",
+                      "name": "",
+                      "type": "file",
+                      "url": "94eab6901ca898f3d7e9d2dbdf19c95f.png",
+                      "visible": "1"
+                    },
+                    {
+                      "alt_name": "",
+                      "name": "",
+                      "type": "file",
+                      "url": "f10f0a774d8c15d499e12154cf003fb3.png",
+                      "visible": "1"
+                    },
+                    {
+                      "alt_name": "",
+                      "name": "",
+                      "type": "file",
+                      "url": "abaad6e77f99e856286e6efcb68cb235.png",
+                      "visible": "1"
+                    },
+                    {
+                      "alt_name": "",
+                      "name": "",
+                      "type": "file",
+                      "url": "41a694a478ad2795e8e1a954ae57377c.png",
+                      "visible": "1"
+                    },
+                    {
+                      "alt_name": "",
+                      "name": "",
+                      "type": "file",
+                      "url": "c05efd370fc368da0aa6d36a12cddaca.png",
+                      "visible": "1"
+                    },
+                    {
+                      "alt_name": "",
+                      "name": "",
+                      "type": "file",
+                      "url": "d1db775ff02f03382b7f0bdd4f7b8ea3.png",
+                      "visible": "1"
+                    },
+                    {
+                      "alt_name": "",
+                      "name": "",
+                      "type": "file",
+                      "url": "780967c89d4d5dc1680ad1061f617c65.png",
+                      "visible": "1"
+                    },
+                    {
+                      "alt_name": "",
+                      "name": "",
+                      "type": "file",
+                      "url": "7176c6ca8c0fccaef631c1983f8986a8.png",
+                      "visible": "1"
+                    },
+                    {
+                      "alt_name": "",
+                      "name": "",
+                      "type": "file",
+                      "url": "02a4100995261befb247ac6cdc85a3dc.png",
+                      "visible": "1"
+                    },
+                    {
+                      "alt_name": "",
+                      "name": "",
+                      "type": "file",
+                      "url": "7c5b8064849cf13b6835aff2af332c26.png",
+                      "visible": "1"
+                    },
+                    {
+                      "alt_name": "",
+                      "name": "",
+                      "type": "file",
+                      "url": "089447869730bfe005045f008a17b1bc.png",
+                      "visible": "1"
+                    },
+                    {
+                      "alt_name": "",
+                      "name": "",
+                      "type": "file",
+                      "url": "17cd6c01659edd460fd8983c158f4ed5.png",
+                      "visible": "1"
+                    },
+                    {
+                      "alt_name": "",
+                      "name": "",
+                      "type": "file",
+                      "url": "2144f35080d7c7a750dfa96844ef72d7.png",
+                      "visible": "1"
+                    },
+                    {
+                      "alt_name": "",
+                      "name": "",
+                      "type": "file",
+                      "url": "2c0be419607d39ed3e0fb61c7b4b279c.png",
+                      "visible": "1"
+                    },
+                    {
+                      "alt_name": "",
+                      "name": "",
+                      "type": "file",
+                      "url": "917e976983e0192e1f0fefe41565a794.png",
+                      "visible": "1"
+                    },
+                    {
+                      "alt_name": "",
+                      "name": "",
+                      "type": "file",
+                      "url": "059b218bb8047ffbdde804ae78aab6a2.png",
+                      "visible": "1"
+                    },
+                    {
+                      "alt_name": "",
+                      "name": "",
+                      "type": "file",
+                      "url": "0f66909129a72c06d6cadbd470a04d2f.png",
+                      "visible": "1"
+                    },
+                    {
+                      "alt_name": "",
+                      "name": "",
+                      "type": "file",
+                      "url": "bc16283f0b8e99c2589bb9e32d844590.png",
+                      "visible": "1"
+                    },
+                    {
+                      "alt_name": "",
+                      "name": "",
+                      "type": "file",
+                      "url": "542a31b1f6782be39458f22cfcf3dcf2.png",
+                      "visible": "1"
+                    },
+                    {
+                      "alt_name": "",
+                      "name": "",
+                      "type": "file",
+                      "url": "b3ae359ddfc063ba4850879e2a13affd.png",
+                      "visible": "1"
+                    },
+                    {
+                      "alt_name": "",
+                      "name": "",
+                      "type": "file",
+                      "url": "89528ef53639cfb74c9e200e60128b89.png",
+                      "visible": "1"
+                    },
+                    {
+                      "alt_name": "",
+                      "name": "",
+                      "type": "file",
+                      "url": "e23196bcb78b8255b581a36a9976cc73.png",
+                      "visible": "1"
+                    },
+                    {
+                      "alt_name": "",
+                      "name": "",
+                      "type": "file",
+                      "url": "43d51ee1df8b2d630296a247b07855ad.png",
+                      "visible": "1"
+                    },
+                    {
+                      "alt_name": "",
+                      "name": "",
+                      "type": "file",
+                      "url": "9b24de8296d211077b81fd0737d89797.png",
+                      "visible": "1"
+                    },
+                    {
+                      "alt_name": "",
+                      "name": "",
+                      "type": "file",
+                      "url": "c58bfdcda9f12aa3cd5f5d60439faaad.png",
+                      "visible": "1"
+                    },
+                    {
+                      "alt_name": "",
+                      "name": "",
+                      "type": "file",
+                      "url": "96db1600d2806a47021ea7463f8a22e0.png",
+                      "visible": "1"
+                    },
+                    {
+                      "alt_name": "",
+                      "name": "",
+                      "type": "file",
+                      "url": "9b31faa26e70c147fc587621d0fd2ac6.png",
+                      "visible": "1"
+                    },
+                    {
+                      "alt_name": "",
+                      "name": "",
+                      "type": "file",
+                      "url": "8669fbcea1579f3ed75e8fe2a6c27496.png",
+                      "visible": "1"
+                    },
+                    {
+                      "alt_name": "",
+                      "name": "",
+                      "type": "file",
+                      "url": "e4e95e8b20618a31b04572ac744886ef.png",
+                      "visible": "1"
+                    },
+                    {
+                      "alt_name": "",
+                      "name": "",
+                      "type": "file",
+                      "url": "891dfe9342a90672f261ca1617881fcf.png",
+                      "visible": "1"
+                    },
+                    {
+                      "alt_name": "",
+                      "name": "",
+                      "type": "file",
+                      "url": "ff494a2ef80037fe113f062a30614fe7.png",
+                      "visible": "1"
+                    },
+                    {
+                      "alt_name": "",
+                      "name": "",
+                      "type": "file",
+                      "url": "ae8dc0c3f489737b23f901e9538b6677.png",
+                      "visible": "1"
+                    },
+                    {
+                      "alt_name": "",
+                      "name": "",
+                      "type": "file",
+                      "url": "9d665de0de720a1cb4fe930e12a89e07.png",
+                      "visible": "1"
+                    },
+                    {
+                      "alt_name": "",
+                      "name": "",
+                      "type": "file",
+                      "url": "b88d8c5adcb61b1f20403a06ff70f178.png",
+                      "visible": "1"
+                    },
+                    {
+                      "alt_name": "",
+                      "name": "",
+                      "type": "file",
+                      "url": "f75ca3b6f85fd681958f3cc4d47f4ef8.png",
+                      "visible": "1"
+                    },
+                    {
+                      "alt_name": "",
+                      "name": "",
+                      "type": "file",
+                      "url": "91e2faed9687544034391ff3c7e224a1.png",
+                      "visible": "1"
+                    },
+                    {
+                      "alt_name": "",
+                      "name": "",
+                      "type": "file",
+                      "url": "eae852fab476274fd90005c925bdbff4.png",
+                      "visible": "1"
+                    },
+                    {
+                      "alt_name": "",
+                      "name": "",
+                      "type": "file",
+                      "url": "4b602d64bdb9be78b5e501a48ba6f773.png",
+                      "visible": "1"
+                    },
+                    {
+                      "alt_name": "",
+                      "name": "",
+                      "type": "file",
+                      "url": "72cd918f0bed3c4c37b72df88a8a65a9.png",
+                      "visible": "1"
+                    },
+                    {
+                      "alt_name": "",
+                      "name": "",
+                      "type": "file",
+                      "url": "5b5d36f7994eea7f7cbf814565083143.png",
+                      "visible": "1"
+                    },
+                    {
+                      "alt_name": "",
+                      "name": "",
+                      "type": "file",
+                      "url": "f4f1e3869923e7b4fc310f314bc5465a.png",
+                      "visible": "1"
+                    },
+                    {
+                      "alt_name": "",
+                      "name": "",
+                      "type": "file",
+                      "url": "51eb019a866ed7f90aa5ea878eb01a17.png",
+                      "visible": "1"
+                    },
+                    {
+                      "alt_name": "",
+                      "name": "",
+                      "type": "file",
+                      "url": "f015bc8093dfea5801c931721eabca29.png",
+                      "visible": "1"
+                    },
+                    {
+                      "alt_name": "",
+                      "name": "",
+                      "type": "file",
+                      "url": "2f07cd47032616d5c86e5ecf9ba8fb19.png",
+                      "visible": "1"
+                    },
+                    {
+                      "alt_name": "",
+                      "name": "",
+                      "type": "file",
+                      "url": "86c514b11bae07f9a5ed4312f97f6785.png",
+                      "visible": "1"
+                    },
+                    {
+                      "alt_name": "",
+                      "name": "",
+                      "type": "file",
+                      "url": "813ce5ecd47700b7e6cdcd5a29e68cd8.png",
+                      "visible": "1"
+                    },
+                    {
+                      "alt_name": "",
+                      "name": "",
+                      "type": "file",
+                      "url": "fb76192ffca0c6227cf9b6c833add43c.png",
+                      "visible": "1"
+                    },
+                    {
+                      "alt_name": "",
+                      "name": "",
+                      "type": "file",
+                      "url": "c364416c62298f90b05c426d2c5cc6fa.png",
+                      "visible": "1"
+                    },
+                    {
+                      "alt_name": "",
+                      "name": "",
+                      "type": "file",
+                      "url": "a08ec551f17f845ba6c4a3b4be686db4.png",
+                      "visible": "1"
+                    },
+                    {
+                      "alt_name": "",
+                      "name": "",
+                      "type": "file",
+                      "url": "7c303d58ac42ca5ba82e0a0263dfb50f.png",
+                      "visible": "1"
+                    },
+                    {
+                      "alt_name": "",
+                      "name": "",
+                      "type": "file",
+                      "url": "fa78f413b64ca60b7f3bbfb4c504c3aa.png",
+                      "visible": "1"
+                    },
+                    {
+                      "alt_name": "",
+                      "name": "",
+                      "type": "file",
+                      "url": "b14a9ba8d129501b5e71b16f916e2000.png",
+                      "visible": "1"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "metaproduct": [],
+          "prices": [
+            {
+              "currency": "USD",
+              "price": "514.99",
+              "cf_kw_product_type": "default",
+              "cf_kw_event_start_date": "default",
+              "cf_kw_event_end_date": "default",
+              "cf_kw_disable_strikethrough": "default",
+              "cf_kw_fake_product": "default",
+              "cf_kw_enable_prequeue": "default",
+              "cf_kw_donate_url": "default",
+              "crossed_price": "559.84"
+            }
+          ],
+          "custom_fields": {
+            "cf_kw_product_type": [
+              "BUNDLE",
+              "FOIL",
+              "NON_FOIL",
+              "UNIVERSES_BEYOND"
+            ],
+            "cf_kw_event_start_date": ["2026/04/27 18:00"],
+            "cf_kw_event_end_date": ["2050/12/31 09:00"],
+            "cf_kw_disable_strikethrough": ["FALSE"],
+            "cf_kw_enable_prequeue": ["TRUE"]
+          },
+          "_score": null
+        }
+      ]
+    }
+  ]
+}
