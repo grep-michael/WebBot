@@ -19,8 +19,10 @@ import (
 )
 
 func loadBots() []globals.Bot {
-
-	data, _ := os.ReadFile("config.json")
+	if len(os.Args) < 2 {
+		log.Fatalf("No config file provided")
+	}
+	data, _ := os.ReadFile(os.Args[1])
 	var botList dynamicconfiguration.BotList
 	json.Unmarshal(data, &botList)
 
