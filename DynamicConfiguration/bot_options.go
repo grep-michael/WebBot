@@ -11,6 +11,6 @@ type GovDealsBotOptions struct {
 type MTGSecretLairBotOptions struct {
 	PollingInterval    string `json:"PollingInterval"`
 	CollectionInterval string `json:"CollectionInterval"` //time between request when collecting the product listings
-	NotifyInital       bool   `json:"NotifyInital"`       //Will send a notification of all detected inital product listings
+	NotifyInitial      bool   `json:"NotifyInitial"`      //Will send a notification of all detected inital product listings
 	SearchCount        int    `json:"SearchCount"`        //max is 50, high number means less requests, just leave max
 }

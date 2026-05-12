@@ -33,16 +33,20 @@ func (bot *MTGSecretLairBot) Name() string {
 
 func (bot *MTGSecretLairBot) Run(ctx context.Context) error {
 	bot.ctx = ctx
-	ticker := time.NewTicker(bot.PollingInterval)
 	log.Printf("[%s] Searching every %v\n", bot.InstanceName, bot.PollingInterval)
-	if err := bot.queryAndNotify(); err != nil {
-		return err
-	}
-	bot.opts.NotifyInital = false
+
+	products, _ := bot.queryAllProducts()
+	notifications := bot.convertProductsToNotifications(products)
+	bot.handleNotifications(notifications, bot.opts.NotifyInitial)
+
+	return bot.queryLoop()
+}
+func (bot *MTGSecretLairBot) queryLoop() error {
+	ticker := time.NewTicker(bot.PollingInterval)
 	for {
 		select {
-		case <-ctx.Done():
-			return ctx.Err()
+		case <-bot.ctx.Done():
+			return bot.ctx.Err()
 		case <-ticker.C:
 			err := bot.queryAndNotify()
 			if err != nil {
@@ -57,18 +61,20 @@ func (bot *MTGSecretLairBot) queryAndNotify() error {
 		return err
 	}
 	notifications := bot.convertProductsToNotifications(products)
-	err = bot.sendNotifications(notifications)
+	err = bot.handleNotifications(notifications, true)
 	return err
 }
-func (bot *MTGSecretLairBot) sendNotifications(notifications []globals.Notification) error {
+func (bot *MTGSecretLairBot) handleNotifications(notifications []globals.Notification, notify bool) error {
 	for _, notif := range notifications {
 		err := bot.Cache.Cache(notif)
-		if err != nil || !bot.opts.NotifyInital {
+		if err != nil {
 			continue
 		}
-		err = globals.SendNotification(bot.ctx, notif, bot.NotificationsDestinations)
-		if err != nil {
-			return err
+		if notify {
+			err := globals.SendNotification(bot.ctx, notif, bot.NotificationsDestinations)
+			if err != nil {
+				return err
+			}
 		}
 	}
 	return nil
@@ -90,7 +96,7 @@ func (bot *MTGSecretLairBot) queryAllProducts() ([]Product, error) {
 	for offset < total {
 		result, err := bot.queryOffset(offset)
 		if err != nil {
-			return nil, fmt.Errorf("Failed to query at offset %d\n: %+v", offset, err)
+			return products, fmt.Errorf("Failed to query at offset %d\n: %+v", offset, err)
 		}
 		total = result.Total
 		offset += result.Count
@@ -98,7 +104,7 @@ func (bot *MTGSecretLairBot) queryAllProducts() ([]Product, error) {
 		if offset < total {
 			select {
 			case <-bot.ctx.Done():
-				return nil, bot.ctx.Err()
+				return products, bot.ctx.Err()
 			case <-time.After(bot.CollectionInterval):
 			}
 		}
