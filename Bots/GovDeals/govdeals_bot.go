@@ -54,6 +54,7 @@ func (bot *GovDealsBot) checkNewListing(ctx context.Context) error {
 	log.Printf("[%s] found %d results\n", bot.InstanceName, len(results.Assets))
 	for _, asset := range results.Assets {
 		notification := assetToNotification(asset)
+		notification.Name = bot.InstanceName
 		if bot.Cache != nil {
 			if err := bot.Cache.Cache(notification); err != nil {
 				continue
